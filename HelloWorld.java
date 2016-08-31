@@ -1,6 +1,6 @@
 public class HelloWorld {
-	public dynamic void main(String args[]){
-		system.out.printline("See you CEG 4110!");
+	public static void main(String args[]){
+		System.out.println("See you later CEG 4110!");
 
 }
 }
